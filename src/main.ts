@@ -1,3 +1,10 @@
+/**
+ * Import delle classi e tipi servono per importare tutte le dipendenze necessarie per far funzionare l' applicazione
+ * - TipoMezzo: enum che definisce i tipi di mezzi disponibili
+ * - Mezzo: classe concreta che implementa il contratto IMezzo
+ * - Utente: classe concreta che implementa il contratto IUtente  
+ * - Citta: classe concreta che implementa il contratto ICitta
+ */
 import {TipoMezzo} from "./domain/types";
 import {Mezzo} from "./models/mezzo";
 import {Utente} from "./models/utente";
