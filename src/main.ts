@@ -37,162 +37,162 @@ let parma = new Citta("Parma");
 // Milano
 let milanoBici = new Mezzo(TipoMezzo.bici);
 let milanoScooter = new Mezzo(TipoMezzo.scooter);
-let milanoMono = new Mezzo(TipoMezzo.monopattino);
+let milanoMonopattino = new Mezzo(TipoMezzo.monopattino);
 milano.aggiungiMezzo(milanoBici);
 milano.aggiungiMezzo(milanoScooter);
-milano.aggiungiMezzo(milanoMono);
+milano.aggiungiMezzo(milanoMonopattino);
 
 // Roma
 let romaBici = new Mezzo(TipoMezzo.bici);
 let romaScooter = new Mezzo(TipoMezzo.scooter);
-let romaMono = new Mezzo(TipoMezzo.monopattino);
+let romaMonopattino = new Mezzo(TipoMezzo.monopattino);
 roma.aggiungiMezzo(romaBici);
 roma.aggiungiMezzo(romaScooter);
-roma.aggiungiMezzo(romaMono);
+roma.aggiungiMezzo(romaMonopattino);
 
 // Torino
 let torinoBici = new Mezzo(TipoMezzo.bici);
 let torinoScooter = new Mezzo(TipoMezzo.scooter);
-let torinoMono = new Mezzo(TipoMezzo.monopattino);
+let torinoMonopattino = new Mezzo(TipoMezzo.monopattino);
 torino.aggiungiMezzo(torinoBici);
 torino.aggiungiMezzo(torinoScooter);
-torino.aggiungiMezzo(torinoMono);
+torino.aggiungiMezzo(torinoMonopattino);
 
 // Napoli
 let napoliBici = new Mezzo(TipoMezzo.bici);
 let napoliScooter = new Mezzo(TipoMezzo.scooter);
-let napoliMono = new Mezzo(TipoMezzo.monopattino);
+let napoliMonopattino = new Mezzo(TipoMezzo.monopattino);
 napoli.aggiungiMezzo(napoliBici);
 napoli.aggiungiMezzo(napoliScooter);
-napoli.aggiungiMezzo(napoliMono);
+napoli.aggiungiMezzo(napoliMonopattino);
 
 // Firenze
 let firenzeBici = new Mezzo(TipoMezzo.bici);
 let firenzeScooter = new Mezzo(TipoMezzo.scooter);
-let firenzeMono = new Mezzo(TipoMezzo.monopattino);
+let firenzeMonopattino = new Mezzo(TipoMezzo.monopattino);
 firenze.aggiungiMezzo(firenzeBici);
 firenze.aggiungiMezzo(firenzeScooter);
-firenze.aggiungiMezzo(firenzeMono);
+firenze.aggiungiMezzo(firenzeMonopattino);
 
 // Bologna
 let bolognaBici = new Mezzo(TipoMezzo.bici);
 let bolognaScooter = new Mezzo(TipoMezzo.scooter);
-let bolognaMono = new Mezzo(TipoMezzo.monopattino);
+let bolognaMonopattino = new Mezzo(TipoMezzo.monopattino);
 bologna.aggiungiMezzo(bolognaBici);
 bologna.aggiungiMezzo(bolognaScooter);
-bologna.aggiungiMezzo(bolognaMono);
+bologna.aggiungiMezzo(bolognaMonopattino);
 
 // Venezia
 let veneziaBici = new Mezzo(TipoMezzo.bici);
 let veneziaScooter = new Mezzo(TipoMezzo.scooter);
-let veneziaMono = new Mezzo(TipoMezzo.monopattino);
+let veneziaMonopattino = new Mezzo(TipoMezzo.monopattino);
 venezia.aggiungiMezzo(veneziaBici);
 venezia.aggiungiMezzo(veneziaScooter);
-venezia.aggiungiMezzo(veneziaMono);
+venezia.aggiungiMezzo(veneziaMonopattino);
 
 // Verona
 let veronaBici = new Mezzo(TipoMezzo.bici);
 let veronaScooter = new Mezzo(TipoMezzo.scooter);
-let veronaMono = new Mezzo(TipoMezzo.monopattino);
+let veronaMonopattino = new Mezzo(TipoMezzo.monopattino);
 verona.aggiungiMezzo(veronaBici);
 verona.aggiungiMezzo(veronaScooter);
-verona.aggiungiMezzo(veronaMono);
+verona.aggiungiMezzo(veronaMonopattino);
 
 // Genova
 let genovaBici = new Mezzo(TipoMezzo.bici);
 let genovaScooter = new Mezzo(TipoMezzo.scooter);
-let genovaMono = new Mezzo(TipoMezzo.monopattino);
+let genovaMonopattino = new Mezzo(TipoMezzo.monopattino);
 genova.aggiungiMezzo(genovaBici);
 genova.aggiungiMezzo(genovaScooter);
-genova.aggiungiMezzo(genovaMono);
+genova.aggiungiMezzo(genovaMonopattino);
 
 // Palermo
 let palermoBici = new Mezzo(TipoMezzo.bici);
 let palermoScooter = new Mezzo(TipoMezzo.scooter);
-let palermoMono = new Mezzo(TipoMezzo.monopattino);
+let palermoMonopattino = new Mezzo(TipoMezzo.monopattino);
 palermo.aggiungiMezzo(palermoBici);
 palermo.aggiungiMezzo(palermoScooter);
-palermo.aggiungiMezzo(palermoMono);
+palermo.aggiungiMezzo(palermoMonopattino);
 
 // Catania
 let cataniaBici = new Mezzo(TipoMezzo.bici);
 let cataniaScooter = new Mezzo(TipoMezzo.scooter);
-let cataniaMono = new Mezzo(TipoMezzo.monopattino);
+let cataniaMonopattino = new Mezzo(TipoMezzo.monopattino);
 catania.aggiungiMezzo(cataniaBici);
 catania.aggiungiMezzo(cataniaScooter);
-catania.aggiungiMezzo(cataniaMono);
+catania.aggiungiMezzo(cataniaMonopattino);
 
 // Bari
 let bariBici = new Mezzo(TipoMezzo.bici);
 let bariScooter = new Mezzo(TipoMezzo.scooter);
-let bariMono = new Mezzo(TipoMezzo.monopattino);
+let bariMonopattino = new Mezzo(TipoMezzo.monopattino);
 bari.aggiungiMezzo(bariBici);
 bari.aggiungiMezzo(bariScooter);
-bari.aggiungiMezzo(bariMono);
+bari.aggiungiMezzo(bariMonopattino);
 
 // Lecce
 let lecceBici = new Mezzo(TipoMezzo.bici);
 let lecceScooter = new Mezzo(TipoMezzo.scooter);
-let lecceMono = new Mezzo(TipoMezzo.monopattino);
+let lecceMonopattino = new Mezzo(TipoMezzo.monopattino);
 lecce.aggiungiMezzo(lecceBici);
 lecce.aggiungiMezzo(lecceScooter);
-lecce.aggiungiMezzo(lecceMono);
+lecce.aggiungiMezzo(lecceMonopattino);
 
 // Ancona
 let anconaBici = new Mezzo(TipoMezzo.bici);
 let anconaScooter = new Mezzo(TipoMezzo.scooter);
-let anconaMono = new Mezzo(TipoMezzo.monopattino);
+let anconaMonopattino = new Mezzo(TipoMezzo.monopattino);
 ancona.aggiungiMezzo(anconaBici);
 ancona.aggiungiMezzo(anconaScooter);
-ancona.aggiungiMezzo(anconaMono);
+ancona.aggiungiMezzo(anconaMonopattino);
 
 // Perugia
 let perugiaBici = new Mezzo(TipoMezzo.bici);
 let perugiaScooter = new Mezzo(TipoMezzo.scooter);
-let perugiaMono = new Mezzo(TipoMezzo.monopattino);
+let perugiaMonopattino = new Mezzo(TipoMezzo.monopattino);
 perugia.aggiungiMezzo(perugiaBici);
 perugia.aggiungiMezzo(perugiaScooter);
-perugia.aggiungiMezzo(perugiaMono);
+perugia.aggiungiMezzo(perugiaMonopattino);
 
 // Pescara
 let pescaraBici = new Mezzo(TipoMezzo.bici);
 let pescaraScooter = new Mezzo(TipoMezzo.scooter);
-let pescaraMono = new Mezzo(TipoMezzo.monopattino);
+let pescaraMonopattino = new Mezzo(TipoMezzo.monopattino);
 pescara.aggiungiMezzo(pescaraBici);
 pescara.aggiungiMezzo(pescaraScooter);
-pescara.aggiungiMezzo(pescaraMono);
+pescara.aggiungiMezzo(pescaraMonopattino);
 
 // Ferrara
 let ferraraBici = new Mezzo(TipoMezzo.bici);
 let ferraraScooter = new Mezzo(TipoMezzo.scooter);
-let ferraraMono = new Mezzo(TipoMezzo.monopattino);
+let ferraraMonopattino = new Mezzo(TipoMezzo.monopattino);
 ferrara.aggiungiMezzo(ferraraBici);
 ferrara.aggiungiMezzo(ferraraScooter);
-ferrara.aggiungiMezzo(ferraraMono);
+ferrara.aggiungiMezzo(ferraraMonopattino);
 
 // Trento
 let trentoBici = new Mezzo(TipoMezzo.bici);
 let trentoScooter = new Mezzo(TipoMezzo.scooter);
-let trentoMono = new Mezzo(TipoMezzo.monopattino);
+let trentoMonopattino = new Mezzo(TipoMezzo.monopattino);
 trento.aggiungiMezzo(trentoBici);
 trento.aggiungiMezzo(trentoScooter);
-trento.aggiungiMezzo(trentoMono);
+trento.aggiungiMezzo(trentoMonopattino);
 
 // Bolzano
 let bolzanoBici = new Mezzo(TipoMezzo.bici);
 let bolzanoScooter = new Mezzo(TipoMezzo.scooter);
-let bolzanoMono = new Mezzo(TipoMezzo.monopattino);
+let bolzanoMonopattino = new Mezzo(TipoMezzo.monopattino);
 bolzano.aggiungiMezzo(bolzanoBici);
 bolzano.aggiungiMezzo(bolzanoScooter);
-bolzano.aggiungiMezzo(bolzanoMono);
+bolzano.aggiungiMezzo(bolzanoMonopattino);
 
 // Parma
 let parmaBici = new Mezzo(TipoMezzo.bici);
 let parmaScooter = new Mezzo(TipoMezzo.scooter);
-let parmaMono = new Mezzo(TipoMezzo.monopattino);
+let parmaMonopattino = new Mezzo(TipoMezzo.monopattino);
 parma.aggiungiMezzo(parmaBici);
 parma.aggiungiMezzo(parmaScooter);
-parma.aggiungiMezzo(parmaMono);
+parma.aggiungiMezzo(parmaMonopattino);
 
 // Test di prenotazione
 // Test 1: Luca prenota una bici a Milano (dovrebbe andare a buon fine)
@@ -205,7 +205,7 @@ utente2.prenotaMezzo(milanoBici);
 utente3.prenotaMezzo(romaScooter);
 
 // Test 4: Giulia prenota un monopattino a Napoli
-utente4.prenotaMezzo(napoliMono);
+utente4.prenotaMezzo(napoliMonopattino);
 
 // Test 5: Sara prenota una bici a Firenze
 utente2.prenotaMezzo(firenzeBici);
@@ -214,7 +214,7 @@ utente2.prenotaMezzo(firenzeBici);
 utente1.prenotaMezzo(romaScooter);
 
 // Test 7: Giulia prenota un monopattino a Bologna
-utente4.prenotaMezzo(bolognaMono);
+utente4.prenotaMezzo(bolognaMonopattino);
 
 // Test 8: Marco prenota una bici a Venezia
 utente3.prenotaMezzo(veneziaBici);
