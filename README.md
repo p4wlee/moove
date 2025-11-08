@@ -129,7 +129,7 @@ All’avvio, l'applicazione:
 
 ## 🌐 Demo su CodePen
 
-![Moove](https://github.com/user-attachments/assets/33f82405-3f9d-4d32-ae0c-cc74f543ea0e)
+[![Moove Demo](https://github.com/user-attachments/assets/33f82405-3f9d-4d32-ae0c-cc74f543ea0e)](https://codepen.io/p4wlee/pen/NPxmbGm)
 👉 **https://codepen.io/p4wlee/pen/NPxmbGm**
 
 ---
