@@ -107,11 +107,11 @@ npm start
 
 Il file `tsconfig.json` è configurato per:
 
-- ✅ prendere i file sorgente da `src/`
-- ✅ generare i file compilati in `dist/`
-- ✅ utilizzare moduli ES2020
-- ✅ abilitare la modalità `strict`
-- ✅ supportare import/export moderni
+- ✅ Prendere i file sorgente da `src/`
+- ✅ Generare i file compilati in `dist/`
+- ✅ Utilizzare moduli ES2020
+- ✅ Abilitare la modalità `strict`
+- ✅ Supportare import/export moderni
 
 ---
 
@@ -119,11 +119,11 @@ Il file `tsconfig.json` è configurato per:
 
 All’avvio, l'applicazione:
 
-- crea utenti
-- registra varie città italiane
-- aggiunge mezzi ai rispettivi comuni
-- esegue una serie di test di prenotazione
-- mostra i risultati direttamente in console
+- Crea utenti
+- Registra varie città italiane
+- Aggiunge mezzi ai rispettivi comuni
+- Esegue una serie di test di prenotazione
+- Mostra i risultati direttamente in console
 
 ---
 
